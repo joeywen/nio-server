@@ -1,10 +1,9 @@
-package com.doogga.server;
+package com.joey.server;
 
-import com.doogga.common.JobQueue;
-import com.doogga.common.Pair;
-import com.doogga.handler.MsgConsumerExceptionHandler;
-import com.doogga.worker.QueryWorker;
-import org.apache.log4j.spi.LoggerFactory;
+import com.joey.common.JobQueue;
+import com.joey.common.Pair;
+import com.joey.handler.MsgConsumerExceptionHandler;
+import com.joey.worker.QueryWorker;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

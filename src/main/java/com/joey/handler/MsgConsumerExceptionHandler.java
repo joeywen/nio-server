@@ -1,4 +1,4 @@
-package com.doogga.handler;
+package com.joey.handler;
 
 /**
  * Created by joey on 14-7-3.

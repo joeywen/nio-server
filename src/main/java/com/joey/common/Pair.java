@@ -1,4 +1,4 @@
-package com.doogga.common;
+package com.joey.common;
 
 public class Pair <K, V> {
     private K key;

@@ -1,7 +1,7 @@
-package com.doogga.worker;
+package com.joey.worker;
 
-import com.doogga.common.Pair;
-import com.doogga.common.ProtoHeader;
+import com.joey.common.Pair;
+import com.joey.common.ProtoHeader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

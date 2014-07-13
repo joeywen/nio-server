@@ -1,4 +1,4 @@
-package com.doogga.util;
+package com.joey.util;
 
 /**
  * Created by joey on 14-7-2.

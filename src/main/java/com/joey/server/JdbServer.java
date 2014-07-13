@@ -1,8 +1,8 @@
-package com.doogga.server;
+package com.joey.server;
 
-import com.doogga.common.JobQueue;
-import com.doogga.common.Pair;
-import com.doogga.handler.ServerExceptionHandler;
+import com.joey.common.JobQueue;
+import com.joey.common.Pair;
+import com.joey.handler.ServerExceptionHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,7 +10,7 @@ import java.nio.channels.SelectionKey;
 import java.util.concurrent.atomic.AtomicReference;
 
 /**
- * @author joey@doogga.com
+ * @author joey@joey.com
  * @datetime 2014-7-2.
  */
 public final class JdbServer extends AbstractServer {

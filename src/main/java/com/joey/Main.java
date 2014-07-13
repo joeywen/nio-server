@@ -1,6 +1,6 @@
-package com.doogga;
+package com.joey;
 
-import com.doogga.server.JdbServer;
+import com.joey.server.JdbServer;
 
 /**
  * Created by joey on 14-7-4.

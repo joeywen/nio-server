@@ -1,4 +1,4 @@
-package com.doogga.common;
+package com.joey.common;
 
 import java.nio.ByteBuffer;
 
